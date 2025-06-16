@@ -1,5 +1,5 @@
 - base on the original repos, add PER, Double DQN, n-TD
 - wish to finished：
-    - [ ] reconstruct the structure
+    - [ ] reconstruct
     - [ ] add mult agent dqn( it might be easy)
     - [ ] to be continue ..
